@@ -24,8 +24,7 @@
 #import "SAConfigOptions.h"
 #import "SAConstants.h"
 
-/*
- 以下api可以调用
+/*!
  
  SAConfigOptions *options = [[SAConfigOptions alloc] initWithServerURL:@"F3C35860A84B67863A9122DDD81A1848" launchOptions:nil];[SensorsAnalyticsSDK sharedInstanceWithConfig:options];
  
@@ -43,7 +42,7 @@
  
  [[SensorsAnalyticsSDK sharedInstance] anonymousId];
  
- */
+ !*/
 
 NS_ASSUME_NONNULL_BEGIN
 
